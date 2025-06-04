@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "whois": "node dist/whois.js"
+    "whois": "node dist/whois.js",
+    "dev": "node dist/rules_v1.js"
   },
   "keywords": [],
   "author": "",
